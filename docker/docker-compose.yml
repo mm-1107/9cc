@@ -5,5 +5,5 @@ services:
     network_mode: host
     image: 'ubuntu:18.04'
     volumes:
-      - '/Users/marin/work/compilerbook:/root/compilerbook'
+      - '~/work/compilerbook:/root/compilerbook'
     tty: true
