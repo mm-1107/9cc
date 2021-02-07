@@ -1,3 +1,5 @@
+// ./9cc 123 > tmp.s
+// cc -o tmp tmp.s
 #include <stdio.h>
 #include <stdlib.h>
 
